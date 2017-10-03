@@ -22,6 +22,7 @@
 		C82D665A1F8396D200C9C690 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C82D665D1F8396D200C9C690 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C82D665F1F8396D200C9C690 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C85031821F839AA5009E208C /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				C82D66551F8396D200C9C690 /* ViewController.swift */,
 				C82D66571F8396D200C9C690 /* Main.storyboard */,
 				C82D665A1F8396D200C9C690 /* Assets.xcassets */,
+				C85031821F839AA5009E208C /* pokemon.csv */,
 				C82D665C1F8396D200C9C690 /* LaunchScreen.storyboard */,
 				C82D665F1F8396D200C9C690 /* Info.plist */,
 			);
