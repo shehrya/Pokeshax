@@ -1,0 +1,6 @@
+framework module Pods_Pokeshax {
+  umbrella header "Pods-Pokeshax-umbrella.h"
+
+  export *
+  module * { export * }
+}
